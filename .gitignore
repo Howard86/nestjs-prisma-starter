@@ -6,4 +6,7 @@ coverage/
 .DS_Store
 
 prisma/migrations/dev/
-.env
+.env*
+!.env.example
+
+postgres/
